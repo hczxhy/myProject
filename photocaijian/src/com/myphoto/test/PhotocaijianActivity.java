@@ -7,7 +7,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
-
+/**
+*裁图
+*
+**/
 public class PhotocaijianActivity extends Activity {
     /** Called when the activity is first created. */
     
